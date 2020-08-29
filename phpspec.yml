@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: socialmpt
+        psr4_prefix: socialmpt
+        src_path: app
